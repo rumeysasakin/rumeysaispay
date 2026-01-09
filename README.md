@@ -15,5 +15,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumeysasakin&show_icons=true&title_color=311e76&text_color=272682&bg_color=141010&locale=en" alt="rumeysasakin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumeysasakin&" alt="rumeysaispay" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumeysasakin&" alt="rumeysasakin" /></p>
 
